@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AdMob-APS-Sample
 //
-//  Created by 小菅　諒 on 2020/07/21.
+//  Created by ryokosuge on 2020/07/21.
 //  Copyright © 2020 ryokosuge. All rights reserved.
 //
 
